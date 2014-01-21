@@ -1,23 +1,18 @@
-[A YOURLS Fork for Homebrew Tweets](http://hbrew.in) — [![Build Status](https://travis-ci.org/YOURLS/YOURLS.png?branch=master)](https://travis-ci.org/YOURLS/YOURLS)
+A YOURLS Fork for [Homebrew Tweets](http://hbrew.in) — [![Build Status](https://travis-ci.org/YOURLS/YOURLS.png?branch=master)](http://hbrew.in/version)
 ========
-**YOURLS** is a set of PHP scripts that will allow you to run Your Own URL Shortener. You'll have full control over your data, detailed stats and analytics, plugins, and more. It's free.
-
-Quick Start
------------
-To get started, check [yourls.org](http://yourls.org)!  
-Learn more tweaks in the [Wiki documentation](https://github.com/YOURLS/YOURLS/wiki/).
+**YOURLS** is a set of PHP scripts that will allow you to run Your Own URL Shortener. This is a fork of YOURLS that has been modified specifically for use by [Homebrew Tweets](http://hbrew.in).
 
 News
 ----
 Keep track of development and community news.
 
+* Follow [@homebrewtweets on Twitter](http://twitter.com/homebrewtweets).
 * Follow [@yourls on Twitter](http://twitter.com/yourls).
-* Read and subscribe to the [The Official YOURLS Blog](http://blog.yourls.org).
-* Check [commit messages](https://github.com/YOURLS/YOURLS/commits/master).
+* Check [commit messages](https://github.com/joshmckibbin/YOURLS/commits/master).
 
 Versioning
 ----------
-For transparency and insight into our release cycle, and for striving to maintain backward compatibility, YOURLS will be maintained under the [Semantic Versioning](http://semver.org) guidelines as much as possible.
+For transparency and insight into our release cycle, and for striving to maintain backward compatibility, this fork of YOURLS will be maintained under the [Semantic Versioning](http://semver.org) guidelines as much as possible.
 
 Releases will be numbered with the following format: `<major>.<minor>.<patch>`
 
@@ -26,12 +21,12 @@ And constructed with the following guidelines:
 * New additions without breaking backward compatibility bumps the minor (and resets the patch)
 * Bug fixes and misc changes bumps the patch
 
-*[Release Archive](https://github.com/YOURLS/YOURLS/releases)*
+*[Release Archive](https://github.com/joshmckibbin/YOURLS/releases)*
 
 Bug Tracker
 -----------
-Have a bug or a feature request? [Please open a new issue](https://github.com/YOURLS/YOURLS/issues).  
-__Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/YOURLS/YOURLS/wiki/Bug-Report).__
+Have a bug or a feature request? [Please open a new issue](https://github.com/joshmckibbin/YOURLS/issues).  
+__Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/joshmckibbin/YOURLS/wiki/Bug-Report).__
 
 License
 -------
