@@ -1,5 +1,4 @@
-![yourls](images/yourls-logo.png)
-[YOURLS](http://yourls.org) — [![Build Status](https://travis-ci.org/YOURLS/YOURLS.png?branch=master)](https://travis-ci.org/YOURLS/YOURLS)
+[A YOURLS Fork for Homebrew Tweets](http://hbrew.in) — [![Build Status](https://travis-ci.org/YOURLS/YOURLS.png?branch=master)](https://travis-ci.org/YOURLS/YOURLS)
 ========
 **YOURLS** is a set of PHP scripts that will allow you to run Your Own URL Shortener. You'll have full control over your data, detailed stats and analytics, plugins, and more. It's free.
 
